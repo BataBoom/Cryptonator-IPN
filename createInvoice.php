@@ -1,3 +1,5 @@
+<?php
+
 require __DIR__ . '/../config/config.php';
 
 use Curl\Curl;
